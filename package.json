@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "parceljs": "^0.0.1",
+    "phaser": "^3.80.1",
+    "process": "^0.11.10"
+  }
+}
